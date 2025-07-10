@@ -1,0 +1,1 @@
+results.append(get_metrics(best_knn, f'kNN (k={best_k})', data))

@@ -1,0 +1,1 @@
+df.plot(x='humidity', y='count', kind='scatter');

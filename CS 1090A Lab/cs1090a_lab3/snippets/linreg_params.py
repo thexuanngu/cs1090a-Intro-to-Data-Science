@@ -1,0 +1,1 @@
+lr.intercept_, lr.coef_
